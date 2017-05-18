@@ -52,7 +52,7 @@ public class SoundFragment extends Fragment {
         myButton.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-//                mixGrill();
+                mixGrill(0);
 //                mListener.changeColor(0);
 //                mListener.changeColor2(1);
             }

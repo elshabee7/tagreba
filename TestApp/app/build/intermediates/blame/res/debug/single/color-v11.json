@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

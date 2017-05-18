@@ -1,90 +1,90 @@
 [
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/switch_thumb_material_dark.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_primary_text_material_dark.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_search_url_text.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_tint_btn_checkable.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_tint_seek_thumb.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_btn_colored_borderless_text_material.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_tint_default.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/d727672a0106351db2364d32bfd60f730c870fa9/output/res/color/design_error.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/6dd6824c3394b4c80d4df4918493a585640b466d/output/res/color/design_error.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_tint_switch_track.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/d727672a0106351db2364d32bfd60f730c870fa9/output/res/color/design_tint_password_toggle.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_tint_spinner.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/6dd6824c3394b4c80d4df4918493a585640b466d/output/res/color/design_tint_password_toggle.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/switch_thumb_material_light.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_tint_switch_thumb.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_tint_edittext.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_hint_foreground_material_light.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_btn_colored_text_material.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color/abc_hint_foreground_material_dark.xml"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/color/abc_secondary_text_material_dark.xml"
     }
 ]

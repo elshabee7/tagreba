@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/Users/eskeletsh/.android/build-cache/5bf56bc2a09094d2f67b58ceeed21a0adb488ef9/output/res/values/values.xml",
+                    "file": "/Users/HusseinMontasser/.android/build-cache/c612963a42466c1fa67b169de013207ecc907d13/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

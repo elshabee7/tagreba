@@ -1,97 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="24"
+    api-level="22"
     build-mode="COLD"
-    density="560dpi"
+    density="420dpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1495147498346"
-    token="-7089458552441162652"
+    timestamp="1495148638742"
+    token="-7107346929975725462"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="169" />
+        duration="147" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="17" />
+        duration="7" />
     <task
         name="verifier"
-        duration="5" />
+        duration="1" />
 
     <artifact
-        location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/outputs/apk/app-debug.apk"
+        location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/outputs/apk/app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1495147096191"
+        timestamp="1495148555145"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/outputs/apk/app-debug.apk"
+            location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1495147498346"
+        timestamp="1495148638742"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/outputs/apk/app-debug.apk"
+            location="/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

@@ -1,7 +1,7 @@
-#Fri May 19 00:44:59 CEST 2017
-base.0=/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1c2b7f5cc065b3a76ebde4e4b30b22598ff2aebc
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c7f6c6a9b92e7b8fc07b35e15b1cbf68bf51c290/classes.dex
-base.1=/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c7f6c6a9b92e7b8fc07b35e15b1cbf68bf51c290
-file.0=/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1c2b7f5cc065b3a76ebde4e4b30b22598ff2aebc/classes.dex
+#Fri May 19 01:02:37 CEST 2017
+base.0=/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_459d37c546dca3b6334ebba0ac41558664fcaff4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6d98985d8673dcbdc88e44c3c026b71cb0bc6ca1/classes.dex
+base.1=/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6d98985d8673dcbdc88e44c3c026b71cb0bc6ca1
+file.0=/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_459d37c546dca3b6334ebba0ac41558664fcaff4/classes.dex

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "outputFile": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "file": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

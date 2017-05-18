@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "/Users/HusseinMontasser/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/HusseinMontasser/.android/build-cache/24d1be0e3440cd61db396a01c2082bc1a5b3024a/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     }
 ]
