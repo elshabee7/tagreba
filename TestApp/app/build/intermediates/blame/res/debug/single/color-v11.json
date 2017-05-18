@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/eskeletsh/.android/build-cache/6dd6824c3394b4c80d4df4918493a585640b466d/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/eskeletsh/.android/build-cache/6dd6824c3394b4c80d4df4918493a585640b466d/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

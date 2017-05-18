@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="107047ad02c91c6c482ff908793af0ded59b1875">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e2651cb79cdadddf939b8ba2bba1d173277f9fd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/.android/build-cache/752853b2ede9fdec8a3bf34e1b9952f4aea3e0c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1115f7e73bf28cacf7c50b0c452e792d0883f46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c7f6c6a9b92e7b8fc07b35e15b1cbf68bf51c290/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/.android/build-cache/4fd661e68977b130cdeced56f7f4522dc98923ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d577c3d9f3471f04d751290134464dc14fd90fe5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/.android/build-cache/488459a772d856367bf2194cb2544251a7bcdc24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96d14f4f0bd007c8d41bc32655b9c05eed406384/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/.android/build-cache/fed24bcc560dfdc23cdad1fc95b2643f484ac6e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_119d1c1c0eba6edf81d5b16cc64780e3d32a2e85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/.android/build-cache/6dd6824c3394b4c80d4df4918493a585640b466d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b975237c9b6e4132710f38457c6f63fee1b1ab4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4394b13536a5c5978825640be49a04aa5f8442a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8cdd01a9e87834cfaae7bcd77e57c136e632fcac">
+        <dex dex="/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1c2b7f5cc065b3a76ebde4e4b30b22598ff2aebc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/.android/build-cache/2ed43d434e5dadb24d805305c21c071371b0e6f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_387fa575269e71205586c73debded1dfea0d7ea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/.android/build-cache/4691a586145d8fac003cab1d73696c6d2907aab2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad4501a740fe81d0a9cdb659013521d0b60984c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aafcf3816a43b8e72b5bdf1167ee3c9bb54b3493/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/.android/build-cache/3398df3f6178953a5fa6bfafd4075fcae028a203/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0dd82c285ab5b10dda0a32d4ad3f90377a211bd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_bb49333455dbb2ba16f26beab9204529d9e789c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/.android/build-cache/6412556dabbcb959da8b32afb08f0d1b302368d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68cc5c74d7c42f52be2fa14972931f0946d31ba2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_26ed9391f2e80b12e6c4ec69c63f00f4f928aaa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/.android/build-cache/e8050323486296f69ff8fcb805d32b23a8cc7823/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_413143ab05e4f7c958660207875a9b888e04e90d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/.android/build-cache/3f17fda41bf4fadeb6771ee8ba53625cf16f31e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c301f7d66e5b341da83fd5382984455219124861/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/.android/build-cache/3d160cc52e149f3d9226ac30f2abbc6d7ef868f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9cbdabba632cbf8be001cdbf34110cf42a64015">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06c33d19a1141cc26b9b470a1d153f04ee6673cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/eskeletsh/.android/build-cache/cd58751ca95154e0c3307a7fe3616483db1bfec8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/eskeletsh/Desktop/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0739582f6c8f5ab525c95025904312a7bea0efc/classes.dex" />
+    </item>
+
+</items>

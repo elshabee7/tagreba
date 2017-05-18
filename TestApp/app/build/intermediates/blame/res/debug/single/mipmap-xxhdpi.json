@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

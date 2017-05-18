@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/layout-v21/bb_bottom_bar_item_container.xml",
+        "source": "/Users/eskeletsh/.android/build-cache/3d160cc52e149f3d9226ac30f2abbc6d7ef868f6/output/res/layout-v21/bb_bottom_bar_item_container.xml"
+    },
+    {
+        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/eskeletsh/AndroidStudioProjects/tagreba/TestApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/eskeletsh/.android/build-cache/0e4dc6f27460f808c3a320e391c38d22831e03f5/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

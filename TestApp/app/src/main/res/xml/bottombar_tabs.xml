@@ -1,0 +1,21 @@
+<tabs>
+    <tab
+        id="@+id/tab_light"
+        icon="@drawable/ic_lightbulb"
+        title="Light"/>
+    <tab
+        id="@+id/tab_sound"
+        icon="@drawable/ic_sound"
+        title="Sound"/>
+    <tab
+        id="@+id/tab_dashboard"
+        clickable = "false"/>
+    <tab
+        id="@+id/tab_video"
+        icon="@drawable/ic_video"
+        title="Surveillance"/>
+    <tab
+        id="@+id/tab_profile"
+        icon="@drawable/ic_person"
+        title="Profile"/>
+</tabs>
