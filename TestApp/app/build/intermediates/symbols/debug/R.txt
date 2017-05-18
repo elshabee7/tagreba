@@ -803,7 +803,6 @@ int id center_horizontal 0x7f0e0036
 int id center_vertical 0x7f0e0037
 int id chains 0x7f0e0018
 int id checkBox1 0x7f0e0093
-int id checkBox2 0x7f0e00b2
 int id checkbox 0x7f0e0068
 int id chronometer 0x7f0e00a5
 int id clip_horizontal 0x7f0e0040
@@ -851,7 +850,7 @@ int id line3 0x7f0e00ad
 int id linearLayout 0x7f0e0096
 int id listMode 0x7f0e001a
 int id list_item 0x7f0e0055
-int id masked 0x7f0e00ba
+int id masked 0x7f0e00b9
 int id media_actions 0x7f0e009f
 int id middle 0x7f0e0046
 int id mini 0x7f0e0044
@@ -916,11 +915,11 @@ int id status_bar_latest_event_content 0x7f0e009e
 int id submenuarrow 0x7f0e006b
 int id submit_area 0x7f0e007c
 int id tabMode 0x7f0e001c
-int id tab_dashboard 0x7f0e00b6
-int id tab_light 0x7f0e00b4
-int id tab_profile 0x7f0e00b8
-int id tab_sound 0x7f0e00b5
-int id tab_video 0x7f0e00b7
+int id tab_dashboard 0x7f0e00b5
+int id tab_light 0x7f0e00b3
+int id tab_profile 0x7f0e00b7
+int id tab_sound 0x7f0e00b4
+int id tab_video 0x7f0e00b6
 int id text 0x7f0e00ae
 int id text2 0x7f0e00ac
 int id textSpacerNoButtons 0x7f0e005f
@@ -940,9 +939,9 @@ int id transition_scene_layoutid_cache 0x7f0e000e
 int id underNavbar 0x7f0e0032
 int id up 0x7f0e000f
 int id useLogo 0x7f0e0022
-int id video_layout 0x7f0e00b3
+int id video_layout 0x7f0e00b2
 int id view_offset_helper 0x7f0e0010
-int id visible 0x7f0e00b9
+int id visible 0x7f0e00b8
 int id withText 0x7f0e004b
 int id wrap 0x7f0e0013
 int id wrap_content 0x7f0e002e

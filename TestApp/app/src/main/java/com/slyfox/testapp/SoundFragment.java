@@ -48,13 +48,13 @@ public class SoundFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         myView = inflater.inflate(R.layout.sound_fragment, container, false);
-        myButton = (CheckBox)myView.findViewById(R.id.checkBox2);
+        myButton = (CheckBox)myView.findViewById(R.id.checkBox1);
         myButton.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
 //                mixGrill();
-                mListener.changeColor(0);
-                mListener.changeColor2(1);
+//                mListener.changeColor(0);
+//                mListener.changeColor2(1);
             }
         });
         return myView;

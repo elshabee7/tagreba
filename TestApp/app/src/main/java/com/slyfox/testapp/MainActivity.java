@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity implements MainListener {
         setContentView(R.layout.main_activity);
 
         Toolbar myToolbar = (Toolbar) findViewById(R.id.my_toolbar);
-        setSupportActionBar(myToolbar);https://www.ei.tum.de/fileadmin/tueifei/www/Studium_Studienfuehrer/Studienfuehrer_BScEI_WS1617.pdf
+        setSupportActionBar(myToolbar);
 
         //Fragments
         lightFragment = new LightFragment();

@@ -3275,7 +3275,6 @@ containing a value of this type.
         public static final int center_vertical=0x7f0e0037;
         public static final int chains=0x7f0e0018;
         public static final int checkBox1=0x7f0e0093;
-        public static final int checkBox2=0x7f0e00b2;
         public static final int checkbox=0x7f0e0068;
         public static final int chronometer=0x7f0e00a5;
         public static final int clip_horizontal=0x7f0e0040;
@@ -3323,7 +3322,7 @@ containing a value of this type.
         public static final int linearLayout=0x7f0e0096;
         public static final int listMode=0x7f0e001a;
         public static final int list_item=0x7f0e0055;
-        public static final int masked=0x7f0e00ba;
+        public static final int masked=0x7f0e00b9;
         public static final int media_actions=0x7f0e009f;
         public static final int middle=0x7f0e0046;
         public static final int mini=0x7f0e0044;
@@ -3388,11 +3387,11 @@ containing a value of this type.
         public static final int submenuarrow=0x7f0e006b;
         public static final int submit_area=0x7f0e007c;
         public static final int tabMode=0x7f0e001c;
-        public static final int tab_dashboard=0x7f0e00b6;
-        public static final int tab_light=0x7f0e00b4;
-        public static final int tab_profile=0x7f0e00b8;
-        public static final int tab_sound=0x7f0e00b5;
-        public static final int tab_video=0x7f0e00b7;
+        public static final int tab_dashboard=0x7f0e00b5;
+        public static final int tab_light=0x7f0e00b3;
+        public static final int tab_profile=0x7f0e00b7;
+        public static final int tab_sound=0x7f0e00b4;
+        public static final int tab_video=0x7f0e00b6;
         public static final int text=0x7f0e00ae;
         public static final int text2=0x7f0e00ac;
         public static final int textSpacerNoButtons=0x7f0e005f;
@@ -3412,9 +3411,9 @@ containing a value of this type.
         public static final int underNavbar=0x7f0e0032;
         public static final int up=0x7f0e000f;
         public static final int useLogo=0x7f0e0022;
-        public static final int video_layout=0x7f0e00b3;
+        public static final int video_layout=0x7f0e00b2;
         public static final int view_offset_helper=0x7f0e0010;
-        public static final int visible=0x7f0e00b9;
+        public static final int visible=0x7f0e00b8;
         public static final int withText=0x7f0e004b;
         public static final int wrap=0x7f0e0013;
         public static final int wrap_content=0x7f0e002e;
